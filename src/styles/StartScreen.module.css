@@ -1,0 +1,16 @@
+.startScreen {
+    margin-top: 50px;
+  }
+  
+  .inputField {
+    padding: 10px;
+    width: 300px;
+    font-size: 16px;
+    margin: 10px;
+  }
+  
+  .startButton {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
