@@ -13,9 +13,6 @@ A fun, multiplayer memory match game built with React and CSS Modules. In this g
 
 memory-match/ ├── package.json ├── public/ │ └── index.html └── src/ ├── index.js ├── index.css ├── App.jsx ├── styles/ │ ├── App.module.css │ ├── StartScreen.module.css │ ├── Board.module.css │ ├── Card.module.css │ └── ScoreBoard.module.css └── components/ ├── StartScreen.jsx ├── Board.jsx ├── Card.jsx └── ScoreBoard.jsx
 
-bash
-Copy
-
 ## Installation
 
 1. **Clone the Repository:**
@@ -25,13 +22,9 @@ Copy
    cd memory-match
 Install Dependencies:
 
-bash
-Copy
 npm install
 Start the Development Server:
 
-bash
-Copy
 npm start
 The app will run at http://localhost:3000.
 
@@ -63,12 +56,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Acknowledgements
 Thank you for checking out this Memory Match game! Contributions, feedback, and improvements are always welcome.
 
-yaml
-Copy
-
----
-
-Feel free to modify the file as needed for your project details or additional instructions. Enjoy coding and have fun playing!
 
 
 
